@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/10/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo</span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting</span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub</span>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing</span></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server</span></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating</span></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>
-]]></content>
-  </entry>
-  <entry>
     <title>【细胞生物学】第一章 概论</title>
     <url>/2024/10/02/%E3%80%90%E7%BB%86%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%91%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%A6%82%E8%AE%BA/</url>
     <content><![CDATA[<h1 id="第一节-细胞生物学概述"><a href="#第一节-细胞生物学概述" class="headerlink" title="第一节	 细胞生物学概述"></a>第一节	 细胞生物学概述</h1><h2 id="一、细胞生物学的概念与研究内容"><a href="#一、细胞生物学的概念与研究内容" class="headerlink" title="一、细胞生物学的概念与研究内容"></a>一、细胞生物学的概念与研究内容</h2><p>1、细胞生物学：细胞生物学是一科以细胞为对象，在显微、亚显微和分子水平上，结合结构与功能，以动态观点探索细胞各种生命活动的学科。</p>
@@ -57,6 +39,12 @@
 <p>蛋白质组学：细胞的蛋白质组学以细胞内全部蛋白质的存在及其活动方式为研究对象，从整体角度分析细胞内动态变化的蛋白质组成成分、表达水平与修饰状态，进而了解蛋白质之间的相互作用和联系，揭示蛋白质功能与细胞生命活动的规律。</p>
 <p>8、表观遗传学：表观遗传学是研究没有DNA序列变化并且可以遗传的基因功能变化的学科，如DNA甲基化、组蛋白密码（指组蛋白的乙酰化、甲基化、磷酸化、泛素化、糖基化和羰基化等影响转录因子与DNA结合的动态转录调控），基因组印记以及表观基因组学等。</p>
 ]]></content>
+      <categories>
+        <category>细胞生物学</category>
+      </categories>
+      <tags>
+        <tag>细胞生物学</tag>
+      </tags>
   </entry>
   <entry>
     <title>百年华诞，恰是风华正茂；建党精神，未来亦须坚持——《在庆祝中国共产党成立100周年大会上的讲话》的读书报告</title>
@@ -80,6 +68,12 @@
 <h3 id="（二）伟大建党精神为中国共产党实现中国梦伟大目标提供新的动力"><a href="#（二）伟大建党精神为中国共产党实现中国梦伟大目标提供新的动力" class="headerlink" title="（二）伟大建党精神为中国共产党实现中国梦伟大目标提供新的动力"></a>（二）伟大建党精神为中国共产党实现中国梦伟大目标提供新的动力</h3><p>回看中国共产党百年历史，正是伟大建党精神使得中国共产党实现了救亡图存的目标、国泰民安的目标。而如今，中国共产党更需要伟大建党精神的指引。党的十七大报告中曾经指出如今的世界形势——“当今世界正处在大变革大调整之中。” 如今世界形势风云变幻，国内情况亦错综复杂，中国共产党面临着更加严峻的挑战。伟大建党精神可唤醒中国共产党人的内生动力，凝聚起中国人民建立千秋伟业的磅礴力量！</p>
 <p>“人到半坡山更陡，船到中流浪更急。”虽然中国共产党已经建立百年，已经积累了许许多多的经验，但如今中国共产党面对的，是更加严峻的问题。面对百年未有之大变局，还需要中国共产党以伟大建党精神为指引，以更加坚定的决心破除弊端，以更加长远的目光规划未来，以更大的信心走好自己的路，以更加务实的行动将中国梦转变为触手可及的现实。</p>
 ]]></content>
+      <categories>
+        <category>一些小论文</category>
+      </categories>
+      <tags>
+        <tag>思政类</tag>
+      </tags>
   </entry>
   <entry>
     <title>【细胞生物学】第十五章 细胞分化</title>
@@ -232,6 +226,9 @@ D、转分化
 <p>②	微变态再生：组织器官内没有干细胞，在受伤时，受伤部位组织中的部分细胞通过去分化过程形成未分化的细胞团（原基细胞），再重新分化形成再生器官。（两栖类动物再生肢体的主要方式）</p>
 <p>③	补偿性再生：是一种中间形式，表现为细胞分裂，产生与自己相似的细胞，保持它们的分化功能，如哺乳动物肝脏的再生。</p>
 ]]></content>
+      <categories>
+        <category>细胞生物学</category>
+      </categories>
       <tags>
         <tag>细胞生物学</tag>
       </tags>
@@ -387,6 +384,9 @@ C. 肝细胞、胃壁细胞等
 <h2 id="三、请简述细胞自噬的医学意义："><a href="#三、请简述细胞自噬的医学意义：" class="headerlink" title="三、请简述细胞自噬的医学意义："></a>三、请简述细胞自噬的医学意义：</h2><p>①自噬可以帮助细胞抵抗衰老、饥饿等外界压力，但过度的自噬又将导致细胞发生程序性死亡，被称为II型凋亡。</p>
 <p>②自噬作用在生物体生长发育、细胞分化及对环境应激的应答能力极为关键，对防止某些疾病、抵御病原微生物感染和延缓衰老、延长寿命等方面发挥重要作用。</p>
 ]]></content>
+      <categories>
+        <category>细胞生物学</category>
+      </categories>
       <tags>
         <tag>细胞生物学</tag>
       </tags>
@@ -548,5 +548,11 @@ C. 肝细胞、胃壁细胞等
 <h2 id="三、单细胞生物向多细胞生物的进化"><a href="#三、单细胞生物向多细胞生物的进化" class="headerlink" title="三、单细胞生物向多细胞生物的进化"></a>三、单细胞生物向多细胞生物的进化</h2><p>1、多细胞生物进化的早期可能是由单细胞聚集成群体。（可能的证据：黏细胞）</p>
 <p>2、细胞在向多细胞机体进化过程中，另一个最重要的特点是出现细胞的分化。（可能的证据：团藻）</p>
 ]]></content>
+      <categories>
+        <category>细胞生物学</category>
+      </categories>
+      <tags>
+        <tag>细胞生物学</tag>
+      </tags>
   </entry>
 </search>
