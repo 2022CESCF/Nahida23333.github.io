@@ -1753,6 +1753,98 @@ C. 肝细胞、胃壁细胞等
 <li><p>“1&#x3D;D”时，3和7均在黑键上。“1&#x3D;E”时，2、3、6、7在黑键上。“1&#x3D;F”时，仅4在黑键上。“1&#x3D;G”时，只有7在黑键上。“1&#x3D;A”时，3、6、7在黑键上。“1&#x3D;B”时，2、3、5、6、7在黑键上。</p>
 </li>
 </ul>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">1</th>
+<th align="right">2</th>
+<th align="right">3</th>
+<th align="right">4</th>
+<th align="right">5</th>
+<th align="right">6</th>
+<th align="right">7</th>
+<th align="right">+1</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1&#x3D;C</td>
+<td align="right">C</td>
+<td align="right">D</td>
+<td align="right">E</td>
+<td align="right">F</td>
+<td align="right">G</td>
+<td align="right">A</td>
+<td align="right">B</td>
+<td align="right">C</td>
+</tr>
+<tr>
+<td align="right">1&#x3D;D</td>
+<td align="right">D</td>
+<td align="right">E</td>
+<td align="right">♯F</td>
+<td align="right">G</td>
+<td align="right">A</td>
+<td align="right">B</td>
+<td align="right">♯C</td>
+<td align="right">D</td>
+</tr>
+<tr>
+<td align="right">1&#x3D;E</td>
+<td align="right">E</td>
+<td align="right">♯F</td>
+<td align="right">♯G</td>
+<td align="right">A</td>
+<td align="right">B</td>
+<td align="right">♯C</td>
+<td align="right">♯D</td>
+<td align="right">E</td>
+</tr>
+<tr>
+<td align="right">1&#x3D;F</td>
+<td align="right">F</td>
+<td align="right">G</td>
+<td align="right">A</td>
+<td align="right">♭B</td>
+<td align="right">C</td>
+<td align="right">D</td>
+<td align="right">E</td>
+<td align="right">F</td>
+</tr>
+<tr>
+<td align="right">1&#x3D;G</td>
+<td align="right">G</td>
+<td align="right">A</td>
+<td align="right">B</td>
+<td align="right">C</td>
+<td align="right">D</td>
+<td align="right">E</td>
+<td align="right">♯F</td>
+<td align="right">G</td>
+</tr>
+<tr>
+<td align="right">1&#x3D;A</td>
+<td align="right">A</td>
+<td align="right">B</td>
+<td align="right">♯C</td>
+<td align="right">D</td>
+<td align="right">E</td>
+<td align="right">♯F</td>
+<td align="right">♯G</td>
+<td align="right">A</td>
+</tr>
+<tr>
+<td align="right">1&#x3D;B</td>
+<td align="right">B</td>
+<td align="right">♯C</td>
+<td align="right">♯D</td>
+<td align="right">E</td>
+<td align="right">♯F</td>
+<td align="right">♯G</td>
+<td align="right">♯A</td>
+<td align="right">B</td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>基础乐理</category>
@@ -1803,21 +1895,63 @@ C. 肝细胞、胃壁细胞等
   <entry>
     <title>【基础乐理】学习笔记3：乐音、音级、半音和全音</title>
     <url>/2024/10/19/%E3%80%90%E5%9F%BA%E7%A1%80%E4%B9%90%E7%90%86%E3%80%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B03%EF%BC%9A%E4%B9%90%E9%9F%B3%E3%80%81%E9%9F%B3%E7%BA%A7%E3%80%81%E5%8D%8A%E9%9F%B3%E5%92%8C%E5%85%A8%E9%9F%B3/</url>
-    <content><![CDATA[<h1 id="乐音和噪音"><a href="#乐音和噪音" class="headerlink" title="乐音和噪音"></a>乐音和噪音</h1><ul>
+    <content><![CDATA[<h2 id="乐音和噪音"><a href="#乐音和噪音" class="headerlink" title="乐音和噪音"></a>乐音和噪音</h2><ul>
 <li><p>振动规则、频率稳定的音称为乐音；振动、频率杂乱的音为噪音。</p>
 </li>
 <li><p>音乐往往是乐音和噪音的结合。</p>
 </li>
 </ul>
-<h1 id="乐音体系"><a href="#乐音体系" class="headerlink" title="乐音体系"></a>乐音体系</h1><ul>
+<h2 id="乐音体系"><a href="#乐音体系" class="headerlink" title="乐音体系"></a>乐音体系</h2><ul>
 <li><p>音乐中使用到的所有乐音的总和称为乐音体系。</p>
 </li>
 <li><p>对于乐音体系的大小，有不同的说法。有观点认为乐音体系共88个音，即普通钢琴的键位数。大多数乐器的音域都在钢琴的音域以内，故有此说法。也有观点认为乐音体系共97个音，即蓓森朵芙牌钢琴的键数。</p>
 </li>
 </ul>
-<h1 id="音列"><a href="#音列" class="headerlink" title="音列"></a>音列</h1><ul>
+<h2 id="音列"><a href="#音列" class="headerlink" title="音列"></a>音列</h2><ul>
 <li>乐音体系中，取若干乐音，并有序（即从低到高或从高到低）地排列起来，称为音列。</li>
 </ul>
+<h2 id="半音与全音、自然半音与变化半音、自然全音和变化全音"><a href="#半音与全音、自然半音与变化半音、自然全音和变化全音" class="headerlink" title="半音与全音、自然半音与变化半音、自然全音和变化全音"></a>半音与全音、自然半音与变化半音、自然全音和变化全音</h2><ul>
+<li><p>半音：相邻的两个音之间的距离称为半音。如B到C是（一个）半音（的距离）。</p>
+</li>
+<li><p>全音：全音的距离是半音的两倍。如C到D是（一个）全音（的距离）。</p>
+</li>
+<li><p>自然音：忽略升降符号，只要音名相邻，二者即为自然音。两个音为半音关系者称自然半音（如♯C-D），两个音互为全音关系者称为自然全音（♯E-𝄪F）。</p>
+</li>
+<li><p>变化音：忽略升降符号，音名不相邻的两个音称为变化音。两个音为半音关系者称为变化半音（如F-♯F），两个音互为全音关系者称为变化全音（♯C-♭E）。</p>
+</li>
+</ul>
+<h2 id="1-7的内在规则"><a href="#1-7的内在规则" class="headerlink" title="1~7的内在规则"></a>1~7的内在规则</h2><table>
+<thead>
+<tr>
+<th align="center">1~2</th>
+<th align="center">全音</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">2~3</td>
+<td align="center">全音</td>
+</tr>
+<tr>
+<td align="center">3~4</td>
+<td align="center">半音</td>
+</tr>
+<tr>
+<td align="center">4~5</td>
+<td align="center">全音</td>
+</tr>
+<tr>
+<td align="center">5~6</td>
+<td align="center">全音</td>
+</tr>
+<tr>
+<td align="center">6~7</td>
+<td align="center">全音</td>
+</tr>
+<tr>
+<td align="center">7~(+1)</td>
+<td align="center">半音</td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>基础乐理</category>
@@ -2196,6 +2330,157 @@ C. 肝细胞、胃壁细胞等
       </categories>
       <tags>
         <tag>局部解剖学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【基础乐理】学习笔记4：调式和音阶</title>
+    <url>/2024/11/02/%E3%80%90%E5%9F%BA%E7%A1%80%E4%B9%90%E7%90%86%E3%80%91%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B04%EF%BC%9A%E8%B0%83%E5%BC%8F%E5%92%8C%E9%9F%B3%E9%98%B6/</url>
+    <content><![CDATA[<h2 id="调式"><a href="#调式" class="headerlink" title="调式"></a>调式</h2><p>‌调式（Mode）是构成乐曲的若干个乐音按照一定的关系组合成的体系，通常以其中的一个音为主音，其余各音都倾向于它‌。如：大调式、中古调式、小调式、五声调式等。</p>
+<h3 id="等音调"><a href="#等音调" class="headerlink" title="等音调"></a>等音调</h3><p>等音调是两个调性的一种关系，相同调式且主音是等音关系的两个调性互为等音调。</p>
+<table>
+<thead>
+<tr>
+<th align="right">♯C大调</th>
+<th align="right">♯C</th>
+<th align="right">♯D</th>
+<th align="right">♯E</th>
+<th align="right">♯F</th>
+<th align="right">♯G</th>
+<th align="right">♯A</th>
+<th align="right">♯B</th>
+<th align="right">♯C</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">♭D大调</td>
+<td align="right">♭D</td>
+<td align="right">♭E</td>
+<td align="right">F</td>
+<td align="right">♭G</td>
+<td align="right">♭A</td>
+<td align="right">♭B</td>
+<td align="right">C</td>
+<td align="right">♭D</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="right">♯D大调</th>
+<th align="right">♯D</th>
+<th align="right">♯E</th>
+<th align="right">𝄪F</th>
+<th align="right">♯G</th>
+<th align="right">♯A</th>
+<th align="right">♯B</th>
+<th align="right">𝄪C</th>
+<th align="right">♯D</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">♭E大调</td>
+<td align="right">E</td>
+<td align="right">♯F</td>
+<td align="right">♯G</td>
+<td align="right">A</td>
+<td align="right">B</td>
+<td align="right">♯C</td>
+<td align="right">♯D</td>
+<td align="right">E</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="right">♯F大调</th>
+<th align="right">♯F</th>
+<th align="right">♯G</th>
+<th align="right">♯A</th>
+<th align="right">B</th>
+<th align="right">♯C</th>
+<th align="right">♯D</th>
+<th align="right">♯E</th>
+<th align="right">♯F</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">♭E大调</td>
+<td align="right">♭G</td>
+<td align="right">♭A</td>
+<td align="right">♭B</td>
+<td align="right">♭C</td>
+<td align="right">♭D</td>
+<td align="right">♭E</td>
+<td align="right">F</td>
+<td align="right">♭G</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="right">♯G大调</th>
+<th align="right">♯G</th>
+<th align="right">♯A</th>
+<th align="right">♯B</th>
+<th align="right">♯C</th>
+<th align="right">♯D</th>
+<th align="right">♯E</th>
+<th align="right">𝄪F</th>
+<th align="right">♯G</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">♭A大调</td>
+<td align="right">♭A</td>
+<td align="right">♭B</td>
+<td align="right">C</td>
+<td align="right">♭D</td>
+<td align="right">♭E</td>
+<td align="right">F</td>
+<td align="right">G</td>
+<td align="right">♭A</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="right">♯A大调</th>
+<th align="right">♯A</th>
+<th align="right">♯B</th>
+<th align="right">𝄪C</th>
+<th align="right">♯D</th>
+<th align="right">♯E</th>
+<th align="right">𝄪F</th>
+<th align="right">𝄪G</th>
+<th align="right">♯A</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">♭B大调</td>
+<td align="right">♭B</td>
+<td align="right">C</td>
+<td align="right">D</td>
+<td align="right">♭E</td>
+<td align="right">F</td>
+<td align="right">G</td>
+<td align="right">A</td>
+<td align="right">♭B</td>
+</tr>
+</tbody></table>
+<h3 id="自然大调式"><a href="#自然大调式" class="headerlink" title="自然大调式"></a>自然大调式</h3><p>自然大调式简称自然大调或大调，为大调式的一种。包含七个音符，按“全全半全全全半”规则排列，在唱名中分别是Do、Re、Mi、Fa、Sol、La、Si（或Ti）。</p>
+<p>我们将“1&#x3D;X”的自然大调式，称为X自然大调式，简称X大调。</p>
+<h2 id="音阶"><a href="#音阶" class="headerlink" title="音阶"></a>音阶</h2><h3 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h3><p>将调式中的音，从以主音开始到以主音结束，由低到高（叫做上行），或者由高到低（叫做下行）以阶梯状排列起来，就叫做音阶。</p>
+<h3 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h3><ul>
+<li>特点1：有始有终（一定在主音开始、一定在主音结束）</li>
+<li>特点2：方向性（音阶是有序的）</li>
+<li>特点3：完整性（一个音阶包含该调式的所有音）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>基础乐理</category>
+      </categories>
+      <tags>
+        <tag>基础乐理</tag>
       </tags>
   </entry>
 </search>
